@@ -1,0 +1,2 @@
+This directory contains links back to nettle headers.
+It is necessary because of how the NDK processes includes.
